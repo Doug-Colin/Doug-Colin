@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Doug.</h1>
-<h3 align="center">Full-stack developer with a background in CAD/CAM.</h3>
+<h3 align="center">I'm a Full-stack developer with a background in CAD/CAM.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doug-colin" alt="doug-colin" /></a> </p>
 
-- 🌱 I’m currently learning **authentication.**
 
-- 👯 I’m looking to collaborate on **projects that make people's lives easier.**
+- 👯 I’m interested in **projects that make people's lives easier.**
 
-- 📫 How to reach me **dougcolin@gmail.com**
+- 📫 You can reach me **dougcolin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
